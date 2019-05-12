@@ -3,9 +3,8 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/torresflo/Simple-Math-Library.svg)
 ![GitHub issues](https://img.shields.io/github/issues/torresflo/Simple-Math-Library.svg)
 
-<br />
 <p align="center">
-  <h3 align="center">Simple Math Library</h3>
+  <h1 align="center">Simple Math Library</h3>
 
   <p align="center">
     A simple and light math library that contains usefull classes like Vector, Scalar or Matrix.
