@@ -9,7 +9,7 @@
   <p align="center">
     A simple and light math library that contains usefull classes like Vector, Scalar or Matrix.
     <br />
-    <a href="https://github.com/othneildrew/Simple-Math-Library/issues">Report a bug or request a feature</a>
+    <a href="https://github.com/torresflo/Simple-Math-Library/issues">Report a bug or request a feature</a>
   </p>
 </p>
 
